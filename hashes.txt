@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ojos que hechizan
+
+This log tracks the cryptographic history and versioning for the song **Ojos que hechizan** (ojos-que-hechizan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:30:44.213483 | `v1` | `7d996f110b84ce7a947ca994036a49c841928ab50e5f8b3ea6bca4c637f25bf0` | `533af7968dc501aa98333d8f75052c97a2b1c5e948e23dd419438a954a7473b6` | `2026-06-15_ojos-que-hechizan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

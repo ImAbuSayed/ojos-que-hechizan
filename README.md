@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-que-hechizan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Ojos que hechizan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-que-hechizan/) |
+| **Get License** | [Get a Licensing Quote for Ojos que hechizan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-que-hechizan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7d996f110b84ce7a947ca994036a49c841928ab50e5f8b3ea6bca4c637f25bf0` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
